@@ -6,3 +6,7 @@ def even_odd(l3):
         else:
             output_list.append("odd")
     return output_list
+
+
+# Muneeb=even_odd([1,3,5,7,0,2])
+# print(Muneeb)
